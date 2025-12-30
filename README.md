@@ -24,7 +24,7 @@ Language: Python
 
 Concepts:
 
-Input / 
+Input / Output 
 
 Conditional Statements
 
